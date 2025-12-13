@@ -207,7 +207,7 @@ const Settings = () => {
             </div>
             <div className="flex justify-between">
               <span className="text-gray-600 dark:text-gray-400">Support</span>
-              <span>skjaveriya.11@gmail.com</span>
+              <span>contact@codeorbit.com</span>
             </div>
           </div>
         </div>
