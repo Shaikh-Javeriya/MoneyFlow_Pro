@@ -149,7 +149,7 @@ const Docs = () => {
                   </p>
                   <div className="flex items-center space-x-2 text-sm">
                     <Mail className="w-4 h-4" />
-                    <span>contact@codeorbit.com</span>
+                    <span>contact@codeorbit.co.in</span>
                   </div>
                 </div>
                 <MessageCircle className="w-8 h-8 opacity-80" />
